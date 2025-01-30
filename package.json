@@ -1,0 +1,15 @@
+{
+  "name": "text-transform",
+  "version": "1.0.0",
+  "description": "My nuxt composable based on https://github.com/Datamart/string-transform",
+  "author": {
+    "name": "Aly Akbar Al Mutsana",
+    "url": "https://github.com/akbarsury"
+  },
+  "repository": "github:akbarsury/text-tranform",
+  "license": "Apache-2.0",
+  "main": "src/index.ts",
+  "dependencies": {
+    "string-transform": "^21.9.19"
+  }
+}
